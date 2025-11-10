@@ -17,7 +17,7 @@ class SkyCensorDataset(Dataset):
         '''
         self.root_dir = root_dir
         self.size = size
-        self.class_to_keep = CLASS
+        self.class_to_keep = CLASS_PIXEL
 
         self.image_files = None
         self.mask_files = None
