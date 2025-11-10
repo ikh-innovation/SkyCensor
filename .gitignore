@@ -208,4 +208,4 @@ __marimo__/
 
 # Internal dirs
 data/
-models/
+runs/
